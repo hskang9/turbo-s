@@ -48,11 +48,6 @@ struct Stats {
     proxied: usize,
 }
 
-#[derive(Debug)]
-struct Path {
-    path: String,
-}
-
 #[tokio::main]
 async fn main() -> Result<()> {
     let https = hyper_rustls::HttpsConnector::with_native_roots();
