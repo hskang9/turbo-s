@@ -1,6 +1,6 @@
-# Turbo
+# Turbo S
 
-![](https://raw.githubusercontent.com/hskang9/turbo/main/media/turbo.png)
+![](https://raw.githubusercontent.com/hskang9/turbo/main/media/turbos.png)
 Asynchronous reverse proxy server built in rust
 
 
